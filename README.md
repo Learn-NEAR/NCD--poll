@@ -1,4 +1,4 @@
-near-voting-system
+near-poll-system
 ==================
 
 This [React] app was initialized with [create-near-app]
